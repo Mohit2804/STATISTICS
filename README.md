@@ -1,5 +1,5 @@
 # Introduction to Statistical method for Data Science
 # Title
-Modelling and analysis of gene expression data
+Modelling EEG signals using polynomial regression
 # Introduction
 The goal of this assignment is to provide a solution to solve the 3 tasks provided. It demonstrates the analysis of data and comprehension of data from task 1 where we spoke and plotted graphs such as scatter plot and time series to recognize the dataset for EEG signals. The main aim was to get the best model out of provided 5 EEG models, which we already found by getting all the important results and plots, through those calculations and results we got the best model which is Model 5. All the plots helped us to identify the best model. We also implemented the most important statistical concepts such as model parameter estimation using least squares, residual sum of squares, log-likelihood function, Akaike information criterion(AIC), Bayesian information criterion(BIC), Q-Q plots and train and test split. In our task 3, we implemented Approximate Bayesian Computation using the 2 largest parameters and showed the results. All of the above topics have been introduced using the R programming language.
